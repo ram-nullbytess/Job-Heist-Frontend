@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+visit [this link](https://job-heist1.netlify.app/) to view the application
+
 ## Available Scripts
 
 In the project directory, you can run:
